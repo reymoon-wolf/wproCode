@@ -2,11 +2,7 @@
 // Домашнее задание 2.3
 
 const titleProject = 'Рассчет стоимости';
-const screensValue = {
-    Value1: 'шаблонные',
-    Value2: 'с уникальным дизайном',
-    Value3: 'с анимациями'
-}
+const screensValue = ('шаблонные', 'шаблонные', 'шаблонные');
 const screensPrice = 100;
 const percentage = 15;
 const fullPrice = 1500;
